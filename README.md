@@ -10,8 +10,23 @@ This overlay set makes use of the move transition plugin, to install follow the 
 
 https://github.com/exeldro/obs-move-transition/releases/tag/1.1.3
 
-Unzip the Folder so the file structure is C:/wow-talkshow-overlay ** 
+Unzip the Folder so the file structure is C:/World-Of-Warcraft-Talkshow-Overlay ** 
 
+Open World-Of-Warcraft-Talkshow-Overlay/Assets/Fonts and install the lifecraft font
+
+Open OBS > Scene Collection > Import
+
+Next Go to World-Of-Warcraft-Talkshow-Overlay/Install and select Talk_Show__World_of_Warcraft.JSON
+
+Once imported and enjoy using the overlay. 
+
+## Structure
+
+The main talking scene is -- CAMERAS -- this will have all cameras in a flat state. 
+
+If you wish to make a camera zoom, then there is a scene that names the camera element that its going to bring to the foreground.
+
+My best experience of making this appear super professional is to have each it bound to a function key or if alternatively the more expensive option a stream deck. 
 
 
 ## Contact Information
